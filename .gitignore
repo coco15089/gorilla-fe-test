@@ -1,0 +1,60 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.log.*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Next.js
+.next/
+out/
+
+# Build output
+build/
+dist/
+
+# dotenv environment variables
+.env
+.env.*.local
+
+# Local environment overrides
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel-bundler cache (if used)
+.cache/
+
+# Testing
+coverage/
+.nyc_output/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Windows
+Thumbs.db
+
+# IDEs and editors
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Other
+*.lock
